@@ -1,0 +1,5 @@
+#visual studio files and directories
+.vs
+*.sln
+*.vcxproj*
+*.filters
